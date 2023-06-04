@@ -16,4 +16,4 @@ Key Features:
 
 The combination of MERN technology, TMDB API integration, and a comprehensive set of features makes movieGenix a robust and user-friendly movie management platform. Whether users want to explore new movies, create personalized collections, or keep up with the latest releases, movieGenix offers a convenient and enjoyable solution.
 
-The project's development team has prioritized security, performance, and user experience to ensure a high-quality application. movieGenix brings together the power of MERN technology, the extensive TMDB movie database, and an intuitive UI, providing an exceptional movie browsing experience for all movie enthusiasts.
+
